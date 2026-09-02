@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🎓 **Double Master's Candidate**: Studying Computer Science & Engineering and ICT Innovation through the prestigious **EIT Digital Master School** between **Politecnico di Milano** 🇮🇹 and **KTH Royal Institute of Technology** 🇸🇪.
+- 🎓 **Double Master's Candidate**: Studying Computer Science & Engineering and ICT Innovation through **EIT Digital Master School** between **Politecnico di Milano** 🇮🇹 and **KTH Royal Institute of Technology** 🇸🇪.
 - 🔬 **Research & Innovation**: Graduate Research Student at a premier university engineering laboratory within an advanced interdisciplinary research initiative.
 - 🛠️ **Engineering Focus**: Passionate about applied AI (LLMs, RAG, Multimodal HCI), Recommender Systems, and developer tooling that blends deep engineering rigor with pragmatic problem-solving.
 - 💡 **Entrepreneurship**: Startup Ignition Program Team Leader at **Tech Europe Foundation (TEF)** (Milan innovation ecosystem, seed-funded) 2025 edition.
