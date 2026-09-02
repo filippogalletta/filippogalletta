@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Filippo! 👋
 
 ### 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
@@ -7,8 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippogalletta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filippogalletta)
-
-</div>
 
 ---
 
