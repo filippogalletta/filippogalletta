@@ -1,6 +1,6 @@
 # Hi, I'm Filippo!
 
-## 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
+### 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
 **Software Engineer • Innovation & Digital Tech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippogalletta)
