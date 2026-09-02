@@ -1,6 +1,6 @@
-# Hi, I'm Filippo! 👋
+# Hi, I'm Filippo!
 
-### 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
+## 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
 **Software Engineer • Innovation & Digital Tech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippogalletta)
@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 **Double Master's Candidate**: Studying Computer Science & Engineering and ICT Innovation through the prestigious **EIT Digital Master School** between **Politecnico di Milano** 🇮🇹 and **KTH Royal Institute of Technology** 🇸🇪.
 - 🔬 **Research & Innovation**: Graduate Research Student at a premier university engineering laboratory within an advanced interdisciplinary research initiative.
@@ -18,7 +18,7 @@
 
 ---
 
-### 📬 Let's Connect!
+### Let's Connect!
 
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/filippogalletta)
 - 🐙 Discover my work right here on [GitHub](https://github.com/filippogalletta)
