@@ -1,4 +1,4 @@
-# Hi, I'm Filippo!
+# Hi, I'm Filippo
 
 ### 🎓 MSc in Computer Science & Engineering @ EIT Digital (PoliMi & KTH)
 **Software Engineer • Innovation & Digital Tech**
